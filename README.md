@@ -41,3 +41,5 @@ All of this as of Dec 7, 2021.
   - UTBMap.kext
   - VirtualSMC.kext
   - WhateverGreen.kext
+
+The config is only partially working. Uploaded for information purposes only. A few things aren't working yet, so if you get them to work let me know :)
